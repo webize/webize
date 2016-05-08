@@ -1,0 +1,27 @@
+{
+  "name": "webize",
+  "version": "0.0.2",
+  "description": "webize javascript libraries",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webize/webize.git"
+  },
+  "keywords": [
+    "webize",
+    "solid"
+  ],
+  "author": "Melvin Carvalho <melvincarvalho@gmail.com> (https://melvincarvalho.com/#me)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/webize/webize/issues"
+  },
+  "homepage": "https://github.com/webize/webize#readme",
+  "dependencies": {
+    "browserify": "^13.0.1",
+    "rdflib": "^0.6.1"
+  }
+}
